@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.t1{
+    height: 50px;
+    width: 10vh;
+    padding: 100px;
+    padding-left: 200px;
+    margin: 100px;
+    margin: 50px;
+}
